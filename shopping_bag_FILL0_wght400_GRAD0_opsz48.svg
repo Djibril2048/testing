@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="shopping_bag_FILL0_wght400_GRAD0_opsz48.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="980"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M11 44Q9.8 44 8.9 43.1Q8 42.2 8 41V15Q8 13.8 8.9 12.9Q9.8 12 11 12H16.5V11.5Q16.5 8.35 18.675 6.175Q20.85 4 24 4Q27.15 4 29.325 6.175Q31.5 8.35 31.5 11.5V12H37Q38.2 12 39.1 12.9Q40 13.8 40 15V41Q40 42.2 39.1 43.1Q38.2 44 37 44ZM19.5 11.5V12H28.5V11.5Q28.5 9.6 27.2 8.3Q25.9 7 24 7Q22.1 7 20.8 8.3Q19.5 9.6 19.5 11.5ZM11 41H37Q37 41 37 41Q37 41 37 41V15Q37 15 37 15Q37 15 37 15H31.5V19.5Q31.5 20.15 31.075 20.575Q30.65 21 30 21Q29.35 21 28.925 20.575Q28.5 20.15 28.5 19.5V15H19.5V19.5Q19.5 20.15 19.075 20.575Q18.65 21 18 21Q17.35 21 16.925 20.575Q16.5 20.15 16.5 19.5V15H11Q11 15 11 15Q11 15 11 15V41Q11 41 11 41Q11 41 11 41ZM11 41Q11 41 11 41Q11 41 11 41V15Q11 15 11 15Q11 15 11 15Q11 15 11 15Q11 15 11 15V41Q11 41 11 41Q11 41 11 41Z"
+     id="path2"
+     style="fill:#bfbfbf" />
+</svg>
